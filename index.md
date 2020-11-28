@@ -2,12 +2,7 @@
 
 ## Lesson Plan Video
 <div class="embed-container">
-  <iframe
-      src="https://youtu.be/sEJ6yTe4QSE"
-      width="700"
-      height="480"
-      frameborder="0"
-      allowfullscreen="">
+  <iframe width="1280" height="687" src="https://www.youtube.com/embed/38-68ECz0RU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
 </div>
 https://youtu.be/sEJ6yTe4QSE
