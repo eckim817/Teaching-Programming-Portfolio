@@ -1,14 +1,38 @@
 # Elise's Teaching Programming Portfolio
 
 ## Lesson Plan Video
-<iframe width="560" height="315" src="https://youtu.be/sEJ6yTe4QSE" frameborder="0" allowfullscreen></iframe>
+<div class="embed-container">
+  <iframe
+      src="https://youtu.be/sEJ6yTe4QSE"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
 https://youtu.be/sEJ6yTe4QSE
 
 ## Creating and Explaining Code with Nested Repeats, Events, and/or Variables 
-<iframe width="560" height="315" src="https://youtu.be/UiKTt7Xecq0" frameborder="0" allowfullscreen></iframe>
+<div class="embed-container">
+  <iframe
+      src="https://youtu.be/UiKTt7Xecq0"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
 https://youtu.be/UiKTt7Xecq0
 
 ## Creating and Explaining Code with Conditional Loops and Ifs 
-<iframe width="560" height="315" src="https://youtu.be/38-68ECz0RU" frameborder="0" allowfullscreen></iframe>
+<div class="embed-container">
+  <iframe
+      src="https://youtu.be/38-68ECz0RU"
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
 https://youtu.be/38-68ECz0RU
 
